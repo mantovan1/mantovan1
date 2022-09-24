@@ -1,15 +1,15 @@
 ## Linguagens de Programação
 
-✅ Java          
-✅ Javascript
+✅ Java <br>
+✅ Javascript <br>
  
 ## Frameworks & Outros
 
-✅ React JS
-✅ React Native
+✅ React JS <br>
+✅ React Native <br>
 
-✅ Express JS
-✅ NodeJS
+✅ Express JS <br>
+✅ NodeJS <br>
 
-✅ Android SDK
+✅ Android SDK <br>
 
